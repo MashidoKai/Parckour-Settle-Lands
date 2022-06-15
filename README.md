@@ -2,14 +2,16 @@
 # Parckour Settle Lands
 
 
-Parckour Settle Lands is a simple game made for people who 
-have nothing to do! Or if you need a stress reliving game with
+Parckour Settle Lands is a simple game made for people who \
+have nothing to do! Or if you need a stress reliving game with 
 calming music!
 
 It's free to play! Hop on and play!
 
-Releases:
+Releases: \
 PSL UI Preview v1.0.1
 
-What Release is Coming?:
+What Release is Coming?: \
 PSL Public Beta v1.0
+
+# How to Install
