@@ -22,7 +22,7 @@ download the ParckourSettleLands.ZIP \
 Unzip the file using WinRAR \
 Go to ParckourSettleLandsV1.0.1/ParckourSettleLandsV1.0.1/Parckour Settle Lands PREVIEW for Windows/
 Right-click on Parckour Settle Lands.exe and make a shortcut \
-Once done, click on Shortcut and have fun!\
+Once done, click on Shortcut and have fun!
 
 How to Install on macOS: 
 
